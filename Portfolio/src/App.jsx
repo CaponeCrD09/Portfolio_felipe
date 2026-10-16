@@ -7,6 +7,7 @@ import img_html from './assets/img/skills/html.png'
 import img_css from './assets/img/skills/css.png'
 import img_sql from './assets/img/skills/sql.png'
 import img_python from './assets/img/skills/python.png'
+import img_brown from './assets/img/skills/brown.png'
 
 const skills = [
   { img: img_js, name: 'JavaScript' },
@@ -108,7 +109,7 @@ function App() {
           <div className="about-grid">
             <div className="about-image-wrapper">
               <div className="about-image-card">
-                <img src={img_felipe} alt="Felipe Souza" />
+                <img src={img_brown} alt="Felipe Souza" />
               </div>
               <div className="about-image-decoration" aria-hidden="true" />
             </div>
