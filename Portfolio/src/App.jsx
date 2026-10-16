@@ -7,7 +7,7 @@ import img_html from './assets/img/skills/html.png'
 import img_css from './assets/img/skills/css.png'
 import img_sql from './assets/img/skills/sql.png'
 import img_python from './assets/img/skills/python.png'
-import img_brown from './assets/img/skills/brown.png'
+import img_brown from './assets/img/brown.png'
 
 const skills = [
   { img: img_js, name: 'JavaScript' },
